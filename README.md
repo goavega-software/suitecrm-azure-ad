@@ -28,6 +28,8 @@ After selecting Azure AD Sign-In, following needs to be configured
 * Tenant Id (this should be same as authority which is in form of https://login.microsoftonline.com/{tenantId})
 * Redirect URI
 
+![Settings](https://github.com/goavega-software/suitecrm-azure-ad/raw/master/screeshots/settings.png)
+
 #### Attribution
 https://github.com/ChangezKhan/GoogleSignIn-SuiteCRM/
 
