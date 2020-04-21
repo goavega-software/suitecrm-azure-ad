@@ -17,6 +17,7 @@ More details here on app registration here - https://docs.microsoft.com/en-us/az
 The ONLY step
 
 Install plug-in using Module Loader, Admin > Module Loader.
+The plugin bundle can be downloaded from ![Releases page](https://github.com/goavega-software/suitecrm-azure-ad/releases/download/1.0/SuiteCRMAzureAD1_0.zip)
 
 #### Usage
 
