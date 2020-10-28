@@ -9,7 +9,7 @@ Create an app in Azure AD to get client_id. As part of the registration, you wil
 More details here on app registration here - https://docs.microsoft.com/en-us/azure/active-directory/develop/scenario-spa-app-registration
 
 ### Important
-* The plugin hides the default login box once it is enabled (JS only) so make sure that all users's primary email addresses (not username) match users in Azure AD.
+* The plugin hides the default login box once it is enabled (JS only) so make sure that all users's user_name match users email address in Azure AD.
 
 
 #### Installing the Add-on
